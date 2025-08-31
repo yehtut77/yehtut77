@@ -10,7 +10,7 @@ I'm a passionate FullStack Developer specializing in building robust web applica
 
 - 🌐 Always exploring the latest in web development
 - ⚡ Love creating apps that make a difference
-- 🔗 [Visit my portfolio](https://my-portfolio-lac-zeta-49.vercel.app)
+- 🔗 [Visit my portfolio](https://www.ye-htut-adrian.tech)
 
 ---
 
@@ -42,7 +42,7 @@ I'm a passionate FullStack Developer specializing in building robust web applica
 
 ### 📫 Connect With Me
 
-- Portfolio: [my-portfolio-lac-zeta-49.vercel.app](https://my-portfolio-lac-zeta-49.vercel.app)
+- Portfolio: [https://www.ye-htut-adrian.tech](https://www.ye-htut-adrian.tech)
 
 ---
 
