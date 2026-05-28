@@ -26,9 +26,9 @@ Currently focused on **Zoda**, a POS & e-commerce platform for Myanmar merchants
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yehtut77&show_icons=true&theme=transparent&bg_color=0f172a&title_color=fbbf24&icon_color=f59e0b&text_color=e2e8f0&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=yehtut77&show_icons=true&theme=transparent&bg_color=0f172a&title_color=fbbf24&icon_color=f59e0b&text_color=e2e8f0&hide_border=true&count_private=true" alt="GitHub stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yehtut77&background=0f172a&ring=fbbf24&fire=f59e0b&currStreakLabel=e2e8f0&sideLabels=e2e8f0&currStreakNum=fbbf24&sideNums=e2e8f0&dates=94a3b8&hide_border=true" alt="GitHub streak" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehtut77&layout=compact&theme=transparent&bg_color=0f172a&title_color=fbbf24&text_color=e2e8f0&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=yehtut77&layout=compact&theme=transparent&bg_color=0f172a&title_color=fbbf24&text_color=e2e8f0&hide_border=true&langs_count=8" alt="Top languages" />
 
 </div>
 
