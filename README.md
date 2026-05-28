@@ -44,12 +44,10 @@ Currently focused on **Zoda**, a POS & e-commerce platform for Myanmar merchants
 
 | Project | Description | Link |
 |--------|-------------|------|
-| **Zoda POS** | Mobile POS, storefront & admin for Myanmar merchants | [zodapos.com](https://www.zodapos.com) |
+| **Zoda E-commerce** | End-to-end POS & e-commerce platform — mobile POS, merchant app, customer storefront & admin (React Native, Next.js, Node.js) | [zodapos.com](https://www.zodapos.com) |
 | **Portfolio** | Multilingual developer portfolio (Next.js) | [ye-htut-adrian.tech](https://www.ye-htut-adrian.tech) |
 | **MOCHHI** | Fashion e-commerce marketplace (Flutter + Node) | Private / NDA |
 | **HS Cargo** | Logistics & shipment tracking platform | [hs-cargo.com](https://hs-cargo.com) |
-| **AI Document Summarizer** | AI-powered document analysis & summaries | [Live demo](https://ai-document-summarizer-one.vercel.app) |
-| **Law Firm Intake** | Client intake system with Twilio integration | [Live demo](https://leads-intake-system.vercel.app/) |
 
 ---
 
