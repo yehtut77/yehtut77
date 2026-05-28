@@ -18,7 +18,9 @@ Building production-ready products from idea to launch — POS systems, marketpl
 
 Full stack developer based in **Busan, South Korea**, with experience across **web, mobile, and desktop**. I specialize in end-to-end product delivery — from UI and APIs to deployment and real-world merchant workflows.
 
-Currently focused on **Zoda**, a POS & e-commerce platform for Myanmar merchants, alongside marketplace and logistics products for clients in multiple countries.
+Currently building **Zoda** — two products for Myanmar merchants:
+- **Zoda POS** — offline-first point of sale (desktop + mobile) with inventory, reports & Myanmar payments
+- **Zoda E-commerce** — publishable online storefronts & marketplace at [zodamm.com](https://zodamm.com)
 
 ---
 
@@ -44,7 +46,8 @@ Currently focused on **Zoda**, a POS & e-commerce platform for Myanmar merchants
 
 | Project | Description | Link |
 |--------|-------------|------|
-| **Zoda E-commerce** | End-to-end POS & e-commerce platform — mobile POS, merchant app, customer storefront & admin (React Native, Next.js, Node.js) | [zodapos.com](https://www.zodapos.com) |
+| **Zoda POS** | Offline-first POS for desktop (Electron) & mobile (Expo) — sales, inventory, reports, thermal printing, KBZ Pay / Wave / AYA Pay, multi-currency, Stripe licensing | [zodapos.com](https://www.zodapos.com) |
+| **Zoda E-commerce** | Merchant storefront platform — publish shops from the mobile app, customer catalog & checkout, COD, order tracking, marketplace on zodamm.com | [zodamm.com](https://zodamm.com) |
 | **Portfolio** | Multilingual developer portfolio (Next.js) | [ye-htut-adrian.tech](https://www.ye-htut-adrian.tech) |
 | **MOCHHI** | Fashion e-commerce marketplace (Flutter + Node) | Private / NDA |
 | **HS Cargo** | Logistics & shipment tracking platform | [hs-cargo.com](https://hs-cargo.com) |
@@ -87,7 +90,7 @@ Currently focused on **Zoda**, a POS & e-commerce platform for Myanmar merchants
 - Design and ship **full stack web applications** with React, Next.js, and Node.js
 - Build **cross-platform mobile apps** with React Native (Expo) and Flutter
 - Develop **REST & GraphQL APIs**, real-time features, and payment integrations
-- Deliver **SaaS & POS products** — inventory, orders, storefronts, and admin dashboards
+- Deliver **SaaS & POS products** — Zoda POS (desktop/mobile) and Zoda E-commerce (online storefronts)
 - Work with **PostgreSQL, MongoDB, Supabase, and Firebase** in production environments
 
 ---
